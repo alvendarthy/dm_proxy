@@ -130,6 +130,6 @@ static void __exit proxy_exit(void)
 module_init(proxy_init);
 module_exit(proxy_exit);
 
-MODULE_AUTHOR("Your Name");
-MODULE_DESCRIPTION("Simple proxy device-mapper target with error injection");
+MODULE_AUTHOR("Alven Darthy");
+MODULE_DESCRIPTION("proxy device-mapper target with error injection");
 MODULE_LICENSE("GPL");
